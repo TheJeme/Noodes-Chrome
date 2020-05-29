@@ -1,0 +1,13 @@
+body {
+    background-color: wheat;
+}
+
+textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.4em;
+    border: none;
+    resize: none;
+    outline: none;    
+    padding: 1.2em;
+}
+
